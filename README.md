@@ -23,3 +23,9 @@ In addition to React.js, the portfolio uses the following technologies
 Redux: For state management
 Sass: For CSS pre-processing
 Webpack: For bundling and minification
+
+#### Credits
+
+The UI design of this website is inspired by the portfolio of [Hamish Walton](https://hamishw.com/). While the base structure was drawn from his portfolio, I have innovatively customized and revamped the layout to reflect my personal style and give it a unique appearance. My heartfelt gratitude to [Hamish Walton](https://github.com/HamishMW) for the creative inspiration that has contributed to this unique presentation.
+
+Thank you ❤️ for visiting my portfolio website. Your support and feedback are greatly appreciated! 🙌🏻
