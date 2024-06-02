@@ -19,16 +19,11 @@ Start the development server: npm start
 Open your browser and navigate to http://localhost:3000
 Projects
 
-The portfolio features the following projects:
+The portfolio features dummy projects
 
-Project 1: [Description of project 1]
-Project 2: [Description of project 2]
-Project 3: [Description of project 3]
-Technologies Used
-
+Technologies Used:
 In addition to React.js, the portfolio uses the following technologies:
 
-React Router: For routing and navigation
 Redux: For state management
 Sass: For CSS pre-processing
 Webpack: For bundling and minification
