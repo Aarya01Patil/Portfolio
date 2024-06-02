@@ -13,7 +13,7 @@ Getting Started
 
 To run the portfolio locally:
 
-Clone the repository: git clone https://github.com/your-username/react-js-portfolio.git
+Clone the repository: git clone link 
 Install dependencies: npm install
 Start the development server: npm start
 Open your browser and navigate to http://localhost:3000
