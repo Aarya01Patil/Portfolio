@@ -15,7 +15,7 @@ To run the portfolio website locally:
 Clone the repository: git clone link 
 Install dependencies: npm install
 Start the development server: npm start
-Open your browser and navigate to http://localhost:3000
+Open your browser and navigate to your device's localhost
 
 Technologies Used:
 In addition to React.js, the portfolio uses the following technologies
