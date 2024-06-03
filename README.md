@@ -1,7 +1,7 @@
 # Portfolio
 
 Welcome to my personal portfolio website! This is a showcase of my skills, and projects in the field of Software Development.
-Website: https://portfolio-pl6gco86w-aaryas-projects-666b068a.vercel.app/
+Website: https://portfolio-aaryapatil.vercel.app/
 
 This is a React.js portfolio showcasing my skills and experience in web development.
 
